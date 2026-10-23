@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capsule_keepalive_desc">Keeps Capsule Lite running. When you turn on navigation info, it reads only the Google Maps screen, to show ETA and next turn. It never reads other apps or your input.</string>
+</resources>
