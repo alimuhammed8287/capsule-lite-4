@@ -589,6 +589,7 @@ class CapsuleService : NotificationListenerService() {
             gravity = Gravity.CENTER_VERTICAL
             layoutParams = LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT)
         }
+        row.removeAllViews()
         artRow.addView(icon)
         artRow.addView(textCol)
         artRow.addView(barsRow)
