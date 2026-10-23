@@ -17,6 +17,7 @@ import android.widget.ScrollView
 import android.widget.SeekBar
 import android.widget.Switch
 import android.widget.TextView
+import org.json.JSONObject
 
 class MainActivity : Activity() {
 
